@@ -2,3 +2,14 @@ body {
 	display: grid;
 	grid-template-columns: 2fr 8fr
 }
+.quote-card{
+	border: 3px solid grey;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+.btn-success, .btn-danger {
+	margin-top: 10px;
+	cursor: pointer;
+	background-color: orangered;
+}
